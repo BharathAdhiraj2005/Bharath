@@ -1,0 +1,83 @@
+<html>
+<h1><u>Unordered list</u></h1>
+<ul>
+    <li> ABD</li>
+    <li>MSD</li>
+    <li>VK</li>
+</ul>
+<h2><u>ordered List</u></h2>
+<ol>
+    <li>ABD</li>
+    <li>MSD</li>
+    <li>VK</li>
+</ol>
+ <dl>
+   <h3><u> Description List</u></h3>
+    <dt><b>VK</b></dt> 
+        <dd><i>-Player of the Tournament in WC 2023</i></dd>
+        <dd><i>-Scored 765 runs in World Cup</i></dd>
+        <h4><u>Item List Number</u></h4>
+<ul style="list-style-type:square">
+<li>VK</li>
+<li>MSD</li>
+<li>ABD</li>
+</ul>
+<h5><u>Nested HTML List</u></h5>
+<ul>
+    <li>T<sub>20</sub>
+    <ul>
+        <li>IPL</li>
+        <li>CPL</li>
+        <li>PCL</li>
+        <li>BBL</li>
+    </ul>
+    </li>
+    </ul>
+<h6><u>Ordered List Types</u></h6>
+<li><b>Formats</b></li>
+        <ol type="I">
+        <li>T<sub>20</sub></li>
+        <li>50overs</li>
+        <li>Test</li>
+        </ol>
+<u><h7> Links </h7></u>
+<li><b>Cricket in English</b></li>
+<i><a href="https://en.wikipedia.org/wiki/Cricket" target="_blank"><span style="color:Yellow">CLICK HERE</span></a></i>
+<li><b>Cricket in Tamil</b></li>
+<i><a href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%81%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D" target="_blank"><span style="color:Red">CLICK HERE</span></a></i>
+<br>
+<u><h8><b> Absolute URL & Relative URL </b></h8></u>
+<br>
+<a href="https://www.instagram.com/accounts/login/" target="_blank"><span style="color:purple">INSTGRAM LOGIN </span></a>
+<br>
+<h9><u>TABLE</u></h9>
+<style>
+    table,td,th{
+        border:1px dashed blue
+    }
+</style>
+<table style = "width:50%">
+    <tr>
+        <th>NAME</th>
+        <th>RUNS</th>
+        <th>BOWLING FIGURES</th>
+    </tr>
+    <tr>
+        <td>VIRAT KOHLI</td>
+        <td>26472</td>
+        </tr>
+        <tr>
+        <td> MS DHONI</td>
+        <td>17266</td>
+        <td rowspan="1"> NIL</td>
+        </tr>
+        <tr>
+        <td> AB DEVILLERS</td>
+        <td>20014</td>
+    </tr>
+</table>
+<br>
+<b><u><h10>IMAGE</h10></u></b>
+<br>
+<img border="3" height="50%" width="50%" src="https://wallpapercave.com/wp/wp4957317.jpg">
+<br>
